@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pawankumar088.github.io/Portfolio/](https://pawankumar088.github.io/Portfolio/)
 
-- 💬 Ask me about **Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **pawankumar08892@gmail.com**
 
