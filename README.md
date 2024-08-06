@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumar088&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumar088" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 Currently Working at Impact Sure Technology Private Limited 
 
 - 👨‍💻 All of my projects are available at [https://pawankumar088.github.io/Portfolio/](https://pawankumar088.github.io/Portfolio/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **pawankumar08892@gmail.com**
 
